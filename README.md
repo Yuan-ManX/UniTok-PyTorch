@@ -1,7 +1,7 @@
 # UniTok PyTorch
 
 <p align="center">
-  <img src="UniTok.png" alt="UniTok" style="display:block; margin:auto; width:800px;" />
+  <img src="UniTok.png" alt="UniTok" style="display:block; margin:auto; width:850px;" />
 </p>
 
 PyTorch implementation of UniTok.
